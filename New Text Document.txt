@@ -169,10 +169,11 @@ function run(){
 run();
 
 function goNext(){
-  window.location.href="https://click-here-for-solve-ishue.surge.sh/";
+  window.location.href="https://click-here-for-solve-ishue.surge.sh//";
 }
 </script>
 
 </body>
 
 </html>
+
